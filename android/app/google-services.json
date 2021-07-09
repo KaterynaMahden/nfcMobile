@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38608210628",
+    "firebase_url": "https://skyfoft-team-3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "skyfoft-team-3",
+    "storage_bucket": "skyfoft-team-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38608210628:android:385608e1c1bf416fc5d791",
+        "android_client_info": {
+          "package_name": "com.skysoft_mobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38608210628-a404a2jiadk7v7pe7sa4f6a3d5s4iq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOWycUWqjwDqSE2zU1esyDIyvDQr9TUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38608210628-a404a2jiadk7v7pe7sa4f6a3d5s4iq9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
